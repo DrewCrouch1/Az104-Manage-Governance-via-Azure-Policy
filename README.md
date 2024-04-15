@@ -46,6 +46,4 @@
 
 ![image](https://github.com/DrewCrouch1/Az104-Manage-Governance-via-Azure-Policy/assets/158229796/16e38a14-55be-47cb-9fec-1cf7fc59706d)
 
- 
-![image](https://github.com/DrewCrouch1/Az104-Manage-Governance-via-Azure-Policy/assets/158229796/bf75b723-f145-4ff5-bb3c-18f1f841b707)
 
